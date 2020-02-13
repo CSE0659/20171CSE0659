@@ -1,0 +1,18 @@
+    body{
+       background-color:orange;
+       background-image:url("/home/Sem6B10/Downloads/image.jpg");
+       background-repeat:repeat-x;
+       
+     }
+     h1{
+       color:maroon;
+margin-left: 40px;
+}
+     h2{
+       color:blue;
+margin-left: 70px;
+}
+ p{
+       color:white;
+margin-left: 70px;
+}
