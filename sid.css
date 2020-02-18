@@ -1,18 +1,55 @@
     body{
        background-color:orange;
-       background-image:url("/home/Sem6B10/Downloads/image.jpg");
-       background-repeat:repeat-x;
-       
+       background-image:url("/home/Sem6B10/Downloads/duca.jpg");
+       background-repeat:no-repeat;
+       background-position:center center;
+       background-attachment:fixed;
+       background-size:       
      }
      h1{
+text-decoration:line-through;
        color:maroon;
 margin-left: 40px;
+font-size:40;
 }
      h2{
+text-shadow:8px 8px 8px red;
+text-decoration:underline;
        color:blue;
 margin-left: 70px;
+font-size:40;
 }
  p{
-       color:white;
+text-transform:uppercase;
+font-style:italic;
+       color:gray;
 margin-left: 70px;
+font-size:xx-large;
+
 }
+.size{
+text-transform:capitalize;
+text-decoration:overline;
+font-style:bold;
+direction:rtl;
+word-spacing:35px;
+font-weight:bold;
+       color:white;
+margin-left: 90px;
+font-size:xx-large;
+}
+img:hover{
+border:5px dashed red;
+opacity:0.8;
+
+}
+img{
+float:right;
+margin-right:100px;
+
+}
+
+
+}
+
+
